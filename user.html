@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>InstaB.io</title>
+    <script>
+      const profileQuery = 'user?u='
+      const current = location.href.toString()
+      const redir = current.replace(profileQuery, '#/u/')
+      console.log({ current, redir })
+      location.href = redir
+    </script>
+  </head>
+</html>
