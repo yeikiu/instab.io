@@ -14,15 +14,15 @@
       console.log(location.href, { fullMatch, userName })
       if (!fullMatch && !userName) {
         location.href = 'https://instab.io/#/404'
-        return
+      } else {
+        const targetUid = CUSTOM_REDIRS[userName]
+        console.log({ targetUid })
+        if (!targetUid) {
+          location.href = 'https://instab.io/#/404'
+        } else {
+          location.href = location.href.replace(fullMatch, `#/u/${targetUid}`) 
+        }
       }
-      const targetUid = CUSTOM_REDIRS[userName]
-      console.log({ targetUid })
-      if (!targetUid) {
-        location.href = 'https://instab.io/#/404'
-        return
-      }
-      location.href = location.href.replace(fullMatch, `#/u/${targetUid}`) 
     </script>
   </head>
 </html>
