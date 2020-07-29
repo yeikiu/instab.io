@@ -1,5 +1,7 @@
 <img src=".ci_badges/npm-version-badge.svg" /> <img src=".ci_badges/npm-dependencies-badge.svg" /> <img src=".ci_badges/npm-devdependencies-badge.svg" />
 
+> ⚠️**This README needs to be updated after the project was re-writen in Vue3**
+
 # 🤩 [InstaB.io](https://instab.io) 🤩
 
 > [InstaB.io](https://instab.io) is a true WYSIWYG Portfolio: *One link to link them all!*
