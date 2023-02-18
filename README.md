@@ -14,10 +14,10 @@ I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet 
 
 |   |   |
 |---|---|
-| ![demo_public_profile](public/demo_imgs/demo_public_profile.png) | ![demo_own_profile](public/demo_imgs/demo_own_profile.png) |
-| ![demo_carousel1](public/demo_imgs/demo_carousel1.png) | ![demo_carousel2](public/demo_imgs/demo_carousel2.png) |
-| ![demo_post_input1](public/demo_imgs/demo_post_input1.png) | ![demo_post_input2](public/demo_imgs/demo_post_input2.png) |
-| ![demo_edit_style](public/demo_imgs/demo_edit_style.png) | ![demo_edit_imgs](public/demo_imgs/demo_edit_imgs.png) |
+| ![demo_public_profile](demo_imgs/demo_public_profile.png) | ![demo_own_profile](demo_imgs/demo_own_profile.png) |
+| ![demo_carousel1](demo_imgs/demo_carousel1.png) | ![demo_carousel2](demo_imgs/demo_carousel2.png) |
+| ![demo_post_input1](demo_imgs/demo_post_input1.png) | ![demo_post_input2](demo_imgs/demo_post_input2.png) |
+| ![demo_edit_style](demo_imgs/demo_edit_style.png) | ![demo_edit_imgs](demo_imgs/demo_edit_imgs.png) |
 
 # FAQ
 
