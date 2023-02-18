@@ -1,46 +1,34 @@
-# myhrefs
+<img src=".ci_badges/npm-version-badge.svg" /> <img src=".ci_badges/npm-dependencies-badge.svg" /> <img src=".ci_badges/npm-devdependencies-badge.svg" />
 
-This template should help get you started developing with Vue 3 in Vite.
+# [myhrefs.com](https://myrefs.com)
+> Your only social portfolio
 
-## Recommended IDE Setup
+This project comes from the need of a single platform to showcase content from multiple social sources in a unified way.
+Many artists, content creators and anyone with enough social content really can benefit from a fully customizable profile where it's easy to highlight their best photos or videos.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+After the disruption of internet advertising systems based on users data collection to craft microtargeted ads we've seen how users have lost control of the sites that represents them. Something similar to the old good MySpace isn't thinkable today, as the companies would never risk appearing in a random profile filled with satanic music, high contrast colors and anime pictures.
 
-## Type Support for `.vue` Imports in TS
+I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet corner"_ where you get to choose what colors and font styles better match your persona. A breeze of fresh air in an era where we have so many digital profiles we don't know which one to share when asked for. Link all your profiles at the reach of a click and use the carousel gallery to show-off your best Instagram, YouTube, Spotify or TikTok creations.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+# Screenshots
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+|   |   |
+|---|---|
+| ![demo_public_profile](public/demo_imgs/demo_public_profile.png) | ![demo_own_profile](public/demo_imgs/demo_own_profile.png) |
+| ![demo_carousel1](public/demo_imgs/demo_carousel1.png) | ![demo_carousel2](public/demo_imgs/demo_carousel2.png) |
+| ![demo_post_input1](public/demo_imgs/demo_post_input1.png) | ![demo_post_input2](public/demo_imgs/demo_post_input2.png) |
+| ![demo_edit_style](public/demo_imgs/demo_edit_style.png) | ![demo_edit_imgs](public/demo_imgs/demo_edit_imgs.png) |
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+# FAQ
 
-## Customize configuration
+> Is it free?
+- Yes, this is yet another personal side-project with little to no cost for now.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+> Can I donate to the project?
+- No, you can't even "buy me a cofee" :-p I won't share any kind of account/address until I have to pay the first cent due to actual use.
 
-## Project Setup
+> Can I get a custom URI like [myhrefs.com/profile/darkodixit](https://myhrefs.com/profile/darkodixit)?
+- If you like this repo and open an issue with your current profile-id I will assign you the profile-name of your choice as long as it's not taken, obviously.
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+> Is this an open-source project? If so, where is the source repo?
+- Yes, this repo is only hosting the final build of the project. The sources are also hosted on GitHub and it's open to collaborations but the main reason it's not public is security around backend and configs. If you want to collaborate, open an issue in this repo requesting it and I will happily make you a member of the sources repo. Just make sure you have some familiarity with Vue3 beforehand.
