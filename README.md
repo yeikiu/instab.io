@@ -31,4 +31,7 @@ I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet 
 - Sure thing! Leave a star in this repo and open an issue with your current profile-id. I will then assign you the profile-name of your choice (as long as it's not taken, obviously).
 
 > Is this an open-source project? If so, where is the source repo?
-- Yes, this repo is only hosting the final build of the project. The sources are also hosted on GitHub and it's open to collaborations but the main reason it's not public is security around backend and configs. If you want to collaborate, open an issue in this repo requesting it and I will happily make you a member of the sources repo. Just make sure you have some familiarity with Vue3 beforehand.
+- Yes, this repo is only hosting the final build of the project. The sources are also hosted on GitHub and it's open to collaborations but the main reason it's not public is security around backend and configs.
+
+> I have some good ideas! Can I collaborate?
+- If you want to collaborate, open an issue in this repo requesting it and I will happily make you a member of the source repo. Just make sure you have some familiarity with Vue3 beforehand.
