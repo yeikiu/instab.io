@@ -35,3 +35,17 @@ I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet 
 
 > I have some good ideas! Can I collaborate?
 - If you want to collaborate, open an issue in this repo requesting it and I will happily make you a member of the source repo. Just make sure you have some familiarity with Vue3 beforehand.
+
+> What platforms are integrated so far?
+- Facebook
+- YouTube
+- Twitter
+- Spotify
+- Instagram
+- LinkedIn
+- TikTok
+
+> Can I post any content from any platform?
+- No, there are some basic aspects all posts will need to share to be elegible:
+    * Be public (belong to a public profile/account)
+    * Be posted under one of the currently supported sites
