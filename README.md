@@ -19,24 +19,8 @@ I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet 
 | ![demo_post_input1](demo_imgs/demo_post_input1.png) | ![demo_post_input2](demo_imgs/demo_post_input2.png) |
 | ![demo_edit_style](demo_imgs/demo_edit_style.png) | ![demo_edit_imgs](demo_imgs/demo_edit_imgs.png) |
 
-# FAQ
+# Supported Platforms
 
-> Is it free?
-- Yes, this is yet another personal side-project with little to no cost for now.
-
-> Can I donate to the project?
-- No, you can't even "buy me a cofee" :-p I won't share any kind of account/address until I have to pay the first cent due to actual use.
-
-> Can I get a custom URI like [myhrefs.com/profile/darkodixit](https://myhrefs.com/profile/darkodixit)?
-- Sure thing! Leave a star in this repo and open an issue with your current profile-id. I will then assign you the profile-name of your choice (as long as it's not taken, obviously).
-
-> Is this an open-source project? If so, where is the source repo?
-- Yes, this repo is only hosting the final build of the project. The sources are also hosted on GitHub and it's open to collaborations but the main reason it's not public is security around backend and configs.
-
-> I have some good ideas! Can I collaborate?
-- If you want to collaborate, open an issue in this repo requesting it and I will happily make you a member of the source repo. Just make sure you have some familiarity with Vue3 beforehand.
-
-> What platforms are integrated so far?
 - Facebook
 - YouTube
 - Twitter
@@ -45,7 +29,26 @@ I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet 
 - LinkedIn
 - TikTok
 
+# FAQ
+
+> Is it free?
+- Yes, this is yet another personal side-project with little to no cost for now.
+
+> Can I donate to the project?
+- No, you can't even "buy me a cofee" :-p I won't share any kind of account/address until I have to pay the first cent due to actual use.
+
+> Can I get a custom URI like [myhrefs.com/profile/darkodixit](https://myhrefs.com/profile/darkodixit) or [myhrefs.com/profile/jq](https://myhrefs.com/profile/jq)?
+- Sure thing! Leave a star in this repo and open an issue with your current profile-id. I will then assign you the profile-name of your choice (as long as it's not taken, obviously).
+
+> Is this an open-source project? If so, where is the source repo?
+- Yes, this repo is only hosting the final build of the project. The sources are also hosted on GitHub and it's open to collaborations but the main reason it's not public is security around backend and configs.
+
+> I have some good ideas! Can I collaborate?
+- If you want to collaborate, open an issue in this repo requesting it and I will happily make you a member of the source repo. Just make sure you have some familiarity with Vue3 beforehand.
+
 > Can I post any content from any platform?
 - No, there are some basic aspects all posts will need to share to be elegible:
     * Be public (belong to a public profile/account)
-    * Be posted under one of the currently supported sites
+    * Be posted under one of the currently [supported sites](#supported-platforms)
+
+- Still, you can try URLs from other sites but the result, even if it works, will probably be poor at least design-wise. It's probably better to [open an issue here](/https://github.com/yeikiu/myhrefs-site/issues) to suggest the new platform integration.
