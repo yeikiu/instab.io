@@ -58,11 +58,11 @@ As of today the following social sites are supported:
 # FAQ
 
 > Is it free?
-- Yes, this is yet another personal side-project with little to no cost for now.
+- Yes, this is yet another personal side-project with little to no economic cost for now.
 
 
 > Can I donate to the project?
-- No, you can't even "buy me a cofee" :-p I won't share any kind of account/address until I have to pay the first cent due to actual use.
+- No, you can't even "buy me a cofee". No donations accepted until I have to pay the first cent due to actual usage.
 
 
 > Can I get a custom URI like [myhrefs.com/profile/darkodixit](https://myhrefs.com/profile/darkodixit) or [myhrefs.com/profile/jq](https://myhrefs.com/profile/jq)?
