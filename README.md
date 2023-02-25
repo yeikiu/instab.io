@@ -20,7 +20,9 @@ I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet 
 
 # How does it work?
 
-1.- Make sure you are sharing public content. Posts from private/protected accounts won't work.
+1.- Make sure you are sharing public content.
+> ⚠️ **Posts from private/protected accounts won't work.**
+
 2.- Copy the `share-URL` or `embed-code` for the content you want to share.
 
 |   |   |
