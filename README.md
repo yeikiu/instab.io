@@ -82,4 +82,4 @@ As of today the following social sites are supported:
     * Be public (belong to a public profile/account)
     * Be posted under one of the currently [supported sites](#supported-platforms)
 
-- Still, you can try embed-codes/URLs from other sites but the result, even if it works, will probably be poor at least design-wise. It's probably better to [open an issue here](https://github.com/yeikiu/myhrefs-site/issues) to suggest the new platform integration.
+- Still, you can try embed-codes/URLs from other sites but the result, even if it works, will probably be poor at least design-wise. It's probably better to [open an issue here](https://github.com/yeikiu/miportfol.io-site/issues) to suggest the new platform integration.
