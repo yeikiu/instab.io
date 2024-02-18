@@ -1,6 +1,6 @@
 <img src=".ci_badges/npm-version-badge.svg" /> <img src=".ci_badges/npm-dependencies-badge.svg" /> <img src=".ci_badges/npm-devdependencies-badge.svg" />
 
-# [myhrefs.com](https://myhrefs.com)
+# [miportfol.io](https://miportfol.io)
 > Your only social showcase
 
 This project comes from the need of a single platform to showcase content from multiple social sources in a unified way.
@@ -8,7 +8,7 @@ Many artists, content creators and anyone with enough social content really can 
 
 After the disruption of internet advertising systems based on users data collection to craft micro-targeted ads we've seen how users have lost control of the sites that represents them. Something similar to the `good ol' MySpace` isn't thinkable today, as the companies would never risk appearing in a random profile filled with content and styles they can't supervise.
 
-I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet corner"_ where you get to choose what colors and font styles better match your persona. A breeze of fresh air in an era where we have so many digital profiles we don't know which one to share when asked for. Link all your profiles at the reach of a click and use the carousel gallery to show-off your best Instagram, YouTube, Spotify or TikTok creations.
+I hope [miportfol.io](https://miportfol.io) can work as _"your little own internet corner"_ where you get to choose what colors and font styles better match your persona. A breeze of fresh air in an era where we have so many digital profiles we don't know which one to share when asked for. Link all your profiles at the reach of a click and use the carousel gallery to show-off your best Instagram, YouTube, Spotify or TikTok creations.
 
 
 
@@ -33,7 +33,7 @@ I hope [myhrefs.com](https://myrefs.com) can work as _"your little own internet 
 |---|---|
 | ![demo_post_input1](demo_imgs/demo_share_linkedin.png) | ![demo_post_input2](demo_imgs/demo_share_youtube.png) |
 
-3.- Add it to your [MyHrefs](https://myhrefs.com) profile showcase.
+3.- Add it to your [MiPortfolio](https://miportfol.io) profile showcase.
 |   |   |
 |---|---|
 | ![demo_post_input1](demo_imgs/demo_post_input1.png) | ![demo_post_input2](demo_imgs/demo_post_input2.png) |
@@ -65,7 +65,7 @@ As of today the following social sites are supported:
 - No, you can't even "buy me a cofee". No donations accepted until I have to pay the first cent due to actual usage.
 
 
-> Can I get a custom URI like [myhrefs.com/profile/darkodixit](https://myhrefs.com/profile/darkodixit) or [myhrefs.com/profile/jq](https://myhrefs.com/profile/jq)?
+> Can I get a custom URI like [miportfol.io/profile/darkodixit](https://miportfol.io/profile/darkodixit) or [miportfol.io/profile/jq](https://miportfol.io/profile/jq)?
 - Sure thing! Leave a star in this repo and open an issue with your current profile-id. I will then assign you the profile-name of your choice (as long as it's not taken, obviously).
 
 
