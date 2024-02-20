@@ -1,0 +1,1 @@
+import{_ as e,a as s,c as t,b as c}from"./index-CWES66of.js";const o={},a={class:"about text-black"},r=c("h1",null,"This is a TODO 404 page",-1),_=[r];function n(i,d){return s(),t("div",a,_)}const f=e(o,[["render",n]]);export{f as default};
