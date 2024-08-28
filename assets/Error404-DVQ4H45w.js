@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as t,a as o}from"./index-u9dn7bZe.js";const c={},a={class:"about text-black"},r=o("h1",null,"This is a TODO 404 page",-1),_=[r];function n(i,d){return s(),t("div",a,_)}const f=e(c,[["render",n]]);export{f as default};
